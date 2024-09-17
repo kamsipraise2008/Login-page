@@ -1,0 +1,26 @@
+/*start of cream site*/
+body{
+    background-image: url(./image/2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 20px;
+    margin: 20px;
+}
+.pwd{
+    width: 345px;
+    height: 48px;
+    display: flex;
+    justify-content: right;
+    border: 5px;
+    border-radius: 1px solid black;
+}
+input{
+    width: 345px;
+    height: 48px;
+}
+button{
+    width: 345px;
+    height: 48px;
+    display: flex;
+    justify-content: right;
+}
